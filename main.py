@@ -1,5 +1,5 @@
 print ("Привет, Git!")
 a = int(input())
 b = int(input())
-r = a+b
+r = a-b
 print (r)
